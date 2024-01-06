@@ -1,5 +1,10 @@
 ### Hi i'm Matheus Felipe 👋
 
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=MatheusFelipe1998&theme=blue-green&hide_border=true&type=png" alt="GitHub Streak" /></a>
+
+
+# I'm a Back-end Developer focusing on Java and its frameworks and I really enjoy learning and discovering the unknown, I love technology and its new solutions
+&nbsp;
 
 
 ## My Skills
