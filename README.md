@@ -53,3 +53,6 @@
 <a href="https://www.linkedin.com/in/matheus-felipe-629781254/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
 <a href="https://twitter.com/MatheusFel8" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"  target="_blank"></a> 
 </div>&nbsp;&nbsp;
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00ced1&height=120&section=footer"/>
