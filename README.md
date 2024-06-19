@@ -54,8 +54,8 @@
 
 
 #### Certifications:
-Scrum Foundation - Certiprof
-Scrum Fundamentals - Skillfront
+- Scrum Foundation - Certiprof
+- Scrum Fundamentals - Skillfront
 
 
 #### Workstation Tools:
